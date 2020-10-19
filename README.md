@@ -1,5 +1,5 @@
 # Public Notice
-This repository ceased to have active maintenance in 2017. Since then, Hacktoberfest organisers Digital Ocean have tightened their requirements for a PR to count towards the event. This repository has been archived now as many people may be mislead by it's existence, and so may mistakenly use it in Hacktoberfest. Thanks for contributing, and enjoy future Hacktoberfests!
+This repository ceased to have active maintenance in 2017. Since then, Hacktoberfest organisers Digital Ocean have tightened their requirements for a PR to count towards the event. This repository has been archived now as many people may be mislead by it's existence, and so may mistakenly use it in Hacktoberfest. Thanks for contributing, and enjoy future Hacktoberfests
 
 
 # Hacktoberfest Census
